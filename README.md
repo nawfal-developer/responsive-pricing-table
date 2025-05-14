@@ -2,6 +2,9 @@
 
 A simple responsive pricing table built with HTML and CSS.
 
+Your site is live at https://nawfal-developer.github.io/responsive-pricing-table/
+
+
 ## Features
 - Three different pricing tiers
 - Responsive design that adjusts for mobile
